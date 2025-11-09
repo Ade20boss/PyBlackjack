@@ -19,13 +19,12 @@ You need **Python 3.x** installed on your system.
 
 1.  **Clone the Repository (or download the file):**
     ```bash
-    git clone [https://github.com/YourUsername/Console-Blackjack.git](https://github.com/YourUsername/Console-Blackjack.git)
-    cd Console-Blackjack
+    git clone [(https://github.com/Ade20boss/PyBlackjack)](https://github.com/Ade20boss/PyBlackjack)
+    cd PyBlackjack
     ```
 2.  **Run the Game:**
-    Assuming your file is named `blackjack_game.py`:
     ```bash
-    python blackjack_game.py
+    python main.py
     ```
 
 ## 🎮 How to Play
