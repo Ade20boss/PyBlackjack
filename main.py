@@ -1,3 +1,4 @@
+__created__ = "Forged in aegis"
 # -- Blackjack Game --
 # This script implements a simple text-based game of Blackjack (or Twenty-One)
 # allowing a player to bet against a dealer using a standard 52-card deck.
@@ -327,4 +328,5 @@ while True:
     else:
         print("\n")
         print("Thank you for playing!")
+
         break  # Exit the main game loop
